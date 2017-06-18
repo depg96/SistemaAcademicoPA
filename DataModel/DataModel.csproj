@@ -50,11 +50,27 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Datamodel.cs" />
+    <Compile Include="Migrations\201706181628410_Initial migration, pushing first class %27Users%27.cs" />
+    <Compile Include="Migrations\201706181628410_Initial migration, pushing first class %27Users%27.Designer.cs">
+      <DependentUpon>201706181628410_Initial migration, pushing first class %27Users%27.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\Classes.csproj">
+      <Project>{3eaba44d-fe69-40d3-aaa5-9317e9baa626}</Project>
+      <Name>Classes</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201706181628410_Initial migration, pushing first class %27Users%27.resx">
+      <DependentUpon>201706181628410_Initial migration, pushing first class %27Users%27.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

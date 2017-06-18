@@ -1,0 +1,14 @@
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\bin\Debug\DataModel.dll
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\bin\Debug\ClassLibrary1.dll
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\bin\Debug\ClassLibrary1.pdb
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\obj\Debug\DataModel.dll
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\obj\Debug\DataModel.pdb
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\obj\Debug\DataModel.Migrations.InitialmigrationpushingfirstclassUsers.resources
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\obj\Debug\DataModel.csproj.GenerateResource.Cache
