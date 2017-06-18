@@ -311,6 +311,7 @@
     <Content Include="Content\package.html" />
     <Content Include="Content\pdf_viewer.html" />
     <Content Include="Content\pin_board.html" />
+    <Content Include="Content\PJImages\logo-intec-secundario.png" />
     <Content Include="Content\profile.html" />
     <Content Include="Content\profile_2.html" />
     <Content Include="Content\projects.html" />
@@ -386,8 +387,6 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Account\_ExternalLoginsListPartial.cshtml" />
     <Content Include="Views\Account\ConfirmEmail.cshtml" />
