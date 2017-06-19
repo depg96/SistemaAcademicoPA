@@ -10,7 +10,13 @@ namespace SistemaAcademico.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            using (var context = new SistemaAcademico.DataModel.AcademicSystemContext())
+            {
+                ViewModels.IndexViewModel Model = new ViewModels.IndexViewModel();
+                Model.OpcionesDeMenu = context.OpcionesDelMenu.ToList();
+                return View(Model);
+            }
+
         }
 
         public ActionResult About()

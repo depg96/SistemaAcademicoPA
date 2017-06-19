@@ -12,3 +12,7 @@ C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\obj\Debug\DataMode
 C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\obj\Debug\DataModel.pdb
 C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\obj\Debug\DataModel.Migrations.InitialmigrationpushingfirstclassUsers.resources
 C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\obj\Debug\DataModel.csproj.GenerateResource.Cache
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\obj\Debug\DataModel.Migrations.Addingmenuoptionsschema.resources
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\obj\Debug\DataModel.Migrations.addingmenuoptionsusertypevalidation.resources
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\obj\Debug\DataModel.Migrations.addinginitialmenuoptionforsysadmins.resources
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\DataModel\obj\Debug\DataModel.Migrations.addingmenuoptionscascadeschemamod.resources

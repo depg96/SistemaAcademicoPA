@@ -11,5 +11,6 @@ namespace SistemaAcademico.DataModel
     public class AcademicSystemContext : DbContext
     {
         public DbSet<User> Usuarios { get; set; }
+        public DbSet<MenuOption> OpcionesDelMenu { get; set; }
     }
 }

@@ -12,7 +12,6 @@ namespace SistemaAcademico.SchemaTypes
         Student,
         Teacher,
         Administrative
-
     }
 
 }

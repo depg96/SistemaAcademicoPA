@@ -116,3 +116,13 @@ C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\SistemaAcademico\bin\Microso
 C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\SistemaAcademico\obj\Debug\SistemaAcademico.csprojResolveAssemblyReference.cache
 C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\SistemaAcademico\obj\Debug\SistemaAcademico.dll
 C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\SistemaAcademico\obj\Debug\SistemaAcademico.pdb
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\SistemaAcademico\bin\ClassLibrary1.dll
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\SistemaAcademico\bin\DataModel.dll
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\SistemaAcademico\bin\System.Net.Http.Formatting.dll
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\SistemaAcademico\bin\System.Web.Http.dll
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\SistemaAcademico\bin\System.Web.Http.WebHost.dll
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\SistemaAcademico\bin\ClassLibrary1.pdb
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\SistemaAcademico\bin\DataModel.pdb
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\SistemaAcademico\bin\System.Net.Http.Formatting.xml
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\SistemaAcademico\bin\System.Web.Http.xml
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\SistemaAcademico\bin\System.Web.Http.WebHost.xml

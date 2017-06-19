@@ -7,3 +7,4 @@ C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\ClassLibrary1\bin\Debug\Enti
 C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Javier\Documents\GitHub\SistemaAcademicoPA\ClassLibrary1\obj\Debug\Classes.csprojResolveAssemblyReference.cache

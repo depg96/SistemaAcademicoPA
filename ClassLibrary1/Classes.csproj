@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DTOS.cs" />
     <Compile Include="Enums\FixedValues.cs" />
     <Compile Include="Enums\SchemaTypes.cs" />
     <Compile Include="Model.cs" />

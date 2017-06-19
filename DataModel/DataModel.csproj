@@ -54,11 +54,29 @@
     <Compile Include="Migrations\201706181628410_Initial migration, pushing first class %27Users%27.Designer.cs">
       <DependentUpon>201706181628410_Initial migration, pushing first class %27Users%27.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201706191112595_Adding menuoptions schema.cs" />
+    <Compile Include="Migrations\201706191112595_Adding menuoptions schema.Designer.cs">
+      <DependentUpon>201706191112595_Adding menuoptions schema.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201706191243237_adding menu options usertype validation.cs" />
+    <Compile Include="Migrations\201706191243237_adding menu options usertype validation.Designer.cs">
+      <DependentUpon>201706191243237_adding menu options usertype validation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201706191243503_adding initial menu option for sysadmins.cs" />
+    <Compile Include="Migrations\201706191243503_adding initial menu option for sysadmins.Designer.cs">
+      <DependentUpon>201706191243503_adding initial menu option for sysadmins.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201706191251165_adding menu options cascade schema mod.cs" />
+    <Compile Include="Migrations\201706191251165_adding menu options cascade schema mod.Designer.cs">
+      <DependentUpon>201706191251165_adding menu options cascade schema mod.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
@@ -71,6 +89,22 @@
     <EmbeddedResource Include="Migrations\201706181628410_Initial migration, pushing first class %27Users%27.resx">
       <DependentUpon>201706181628410_Initial migration, pushing first class %27Users%27.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706191112595_Adding menuoptions schema.resx">
+      <DependentUpon>201706191112595_Adding menuoptions schema.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706191243237_adding menu options usertype validation.resx">
+      <DependentUpon>201706191243237_adding menu options usertype validation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706191243503_adding initial menu option for sysadmins.resx">
+      <DependentUpon>201706191243503_adding initial menu option for sysadmins.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201706191251165_adding menu options cascade schema mod.resx">
+      <DependentUpon>201706191251165_adding menu options cascade schema mod.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Migrations\201706191109169_Adding menu options class\" />
+    <Folder Include="Migrations\201706191109373_Adding menu options class\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
